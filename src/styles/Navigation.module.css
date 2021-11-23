@@ -1,0 +1,27 @@
+.navigation {
+    background-color:rgb(250, 156, 179)
+
+}
+
+.navlink {
+    color: #ffffff;
+    position: relative;
+    padding: 10px;
+    font-size: larger;
+    
+
+}
+
+.navlink:hover {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+    
+
+}
+
+.navlinks {
+    display: inline-block;
+    margin-left: 600px;
+      
+}
+

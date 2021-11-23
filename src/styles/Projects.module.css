@@ -1,0 +1,44 @@
+.rowOne {
+    display: flex;
+    align-items: center;
+    padding-top: 7%;
+
+}
+
+.profile {
+    margin-left: 800px;
+    margin-right: 100px;
+    position: relative;
+    line-height: 0%;
+    
+    
+}
+
+
+.jump{
+    padding-top: 5%;
+    margin-left: 150px;
+}
+.enigma {
+    margin-left: 150px;
+  
+}
+
+
+.engimaText {
+    margin-left: 1000px;
+    position: aboslute;
+}
+
+.headerOne {
+    margin-left: 150px;
+    padding-top: 5%;
+}
+
+.rowTwo {
+    display: flex;
+}
+
+.jumpText {
+    padding-top:9%
+}

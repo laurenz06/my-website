@@ -1,0 +1,17 @@
+.major {
+    display: flex;
+    padding-top: 10%;
+
+}
+
+.profile {
+    margin-left: 170px;
+    position: relative;
+    line-height: 0%;
+    
+    
+}
+
+.about {
+    margin-left: 300px;
+}
