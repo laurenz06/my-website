@@ -25,7 +25,7 @@ function Projects() {
         <h2 class="font-weight-bold">Engima Machine Simulator</h2>
       
         <p>
-        - Wrote a Java program that simulates Enigma machines Germany used during World War II to encrypt its military communications.
+        - Wrote a Java program that simulates Enigma machines Germany used during World War II to encrypt its military communications. <br />
         - Handles sets of initial configurations and takes in messages to encode or decode.
         - Uses Regex, HashMap, ArrayList, Scanner, and other OOP data structures to handle string manipulation, data mapping, and file reading for encryption
         - Test Driven Development with Junit tests

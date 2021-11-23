@@ -27,7 +27,7 @@ function Home() {
 
         <div class={styles.socialmedia}>
         <img
-            src="images/social media icons.png"
+            src="images/icons.png"
             alt=""
         />
         </div>
@@ -37,7 +37,7 @@ function Home() {
     
       <div class={styles.profile}>
         <img
-            src="images/profile image.png"
+            src="images/profileimage.png"
            
             alt=""
         />
