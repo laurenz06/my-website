@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/laurenz06/my-website.git/static/css/main.5b4a971a.chunk.css",
-    "main.js": "/laurenz06/my-website.git/static/js/main.f0778e33.chunk.js",
-    "main.js.map": "/laurenz06/my-website.git/static/js/main.f0778e33.chunk.js.map",
-    "runtime-main.js": "/laurenz06/my-website.git/static/js/runtime-main.f934ec58.js",
-    "runtime-main.js.map": "/laurenz06/my-website.git/static/js/runtime-main.f934ec58.js.map",
-    "static/js/2.5ac98f40.chunk.js": "/laurenz06/my-website.git/static/js/2.5ac98f40.chunk.js",
-    "static/js/2.5ac98f40.chunk.js.map": "/laurenz06/my-website.git/static/js/2.5ac98f40.chunk.js.map",
-    "static/js/3.513a12df.chunk.js": "/laurenz06/my-website.git/static/js/3.513a12df.chunk.js",
-    "static/js/3.513a12df.chunk.js.map": "/laurenz06/my-website.git/static/js/3.513a12df.chunk.js.map",
-    "index.html": "/laurenz06/my-website.git/index.html",
-    "static/css/main.5b4a971a.chunk.css.map": "/laurenz06/my-website.git/static/css/main.5b4a971a.chunk.css.map",
-    "static/js/2.5ac98f40.chunk.js.LICENSE.txt": "/laurenz06/my-website.git/static/js/2.5ac98f40.chunk.js.LICENSE.txt"
+    "main.css": "/laurenz06/my-website/static/css/main.5b4a971a.chunk.css",
+    "main.js": "/laurenz06/my-website/static/js/main.f0778e33.chunk.js",
+    "main.js.map": "/laurenz06/my-website/static/js/main.f0778e33.chunk.js.map",
+    "runtime-main.js": "/laurenz06/my-website/static/js/runtime-main.4717e35c.js",
+    "runtime-main.js.map": "/laurenz06/my-website/static/js/runtime-main.4717e35c.js.map",
+    "static/js/2.5ac98f40.chunk.js": "/laurenz06/my-website/static/js/2.5ac98f40.chunk.js",
+    "static/js/2.5ac98f40.chunk.js.map": "/laurenz06/my-website/static/js/2.5ac98f40.chunk.js.map",
+    "static/js/3.513a12df.chunk.js": "/laurenz06/my-website/static/js/3.513a12df.chunk.js",
+    "static/js/3.513a12df.chunk.js.map": "/laurenz06/my-website/static/js/3.513a12df.chunk.js.map",
+    "index.html": "/laurenz06/my-website/index.html",
+    "static/css/main.5b4a971a.chunk.css.map": "/laurenz06/my-website/static/css/main.5b4a971a.chunk.css.map",
+    "static/js/2.5ac98f40.chunk.js.LICENSE.txt": "/laurenz06/my-website/static/js/2.5ac98f40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f934ec58.js",
+    "static/js/runtime-main.4717e35c.js",
     "static/js/2.5ac98f40.chunk.js",
     "static/css/main.5b4a971a.chunk.css",
     "static/js/main.f0778e33.chunk.js"
