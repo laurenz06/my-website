@@ -1,5 +1,6 @@
 import React from "react";
 import styles from "../styles/Home.module.css";
+// import profileImage from "../plushiePic.png";
 
 function Home() {
   return (
@@ -9,8 +10,6 @@ function Home() {
         <h1 class="font-weight-bold">Hi!</h1>
 
         <h1 class="font-weight-bold">I’m Lauren Zheng</h1>
-
-       
 
         <p>
         A software developer
@@ -27,7 +26,7 @@ function Home() {
 
         <div class={styles.socialmedia}>
         <img
-            src="images/icons.png"
+            src= "images/icons.png"
             alt=""
         />
         </div>
@@ -37,7 +36,7 @@ function Home() {
     
       <div class={styles.profile}>
         <img
-            src="images/profileimage.png"
+            src= "images/plushiePic.png"
            
             alt=""
         />

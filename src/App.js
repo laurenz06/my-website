@@ -1,6 +1,6 @@
 import React from "react";
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Projects, Gallery } from "./components";
+import { Navigation, Home, About, Projects, Gallery } from "./components";
 function App() {
   return (
     <div className="App">
@@ -13,7 +13,7 @@ function App() {
           <Route path="/Gallery" exact component={() => <Gallery />} />
 
         </Switch>
-        <Footer />
+        {/* <Footer /> */}
       </Router>
     </div>
   );

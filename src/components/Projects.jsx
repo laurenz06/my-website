@@ -9,6 +9,30 @@ function Projects() {
       <h1 class="font-weight-bold">Projects</h1>
       </div>
 
+      <div class={styles.rowTwo}>
+          <div class = {styles.jump} >
+          <img
+              src="images/git.png"
+              width = "200"
+              height = "200"
+              alt=""
+          />
+          </div>
+
+          <div class ={styles.jumpText}>
+          <h2 class="font-weight-bold">Gitlet</h2>
+
+
+          <p>
+          - Wrote a Java version control system to replicate Git’s functionality, implementing branching, staging, merging, commits, etc. <br />
+          - Used breadth-first search to detect split points in commit history, allowing for correct branch merging
+        </p>
+
+
+          </div>
+
+        </div>
+
 
       <div class ={styles.rowOne}>
         <div class={styles.enigma}>
@@ -26,9 +50,9 @@ function Projects() {
       
         <p>
         - Wrote a Java program that simulates Enigma machines Germany used during World War II to encrypt its military communications. <br />
-        - Handles sets of initial configurations and takes in messages to encode or decode.
-        - Uses Regex, HashMap, ArrayList, Scanner, and other OOP data structures to handle string manipulation, data mapping, and file reading for encryption
-        - Test Driven Development with Junit tests
+        - Handles sets of initial configurations and takes in messages to encode or decode.<br />
+        - Uses Regex, HashMap, ArrayList, Scanner, and other OOP data structures to handle string manipulation, data mapping, and file reading for encryption<br />
+        - Test Driven Development with Junit tests<br />
         </p>
       
         </div>
@@ -50,11 +74,11 @@ function Projects() {
 
 
           <p>
-          - Coded an AI Java program that uses simulates a jumping board game 
-          - Users place dots on the board,  each turn potentialy filling neighboring squares
-          - first person to cover the entire board wins
-          - Usies game trees, hashmap, arraylist, and other OOP data structures
-          - Test Driven Development with Junit Tests
+          - Coded an AI Java program that uses simulates a jumping board game <br />
+          - Users place dots on the board,  each turn potentialy filling neighboring squares <br />
+          - first person to cover the entire board wins <br />
+          - Usies game trees, hashmap, arraylist, and other OOP data structures <br />
+          - Test Driven Development with Junit Tests <br />
         </p>
 
 
@@ -78,11 +102,8 @@ function Projects() {
 
 
           <p>
-          - Coded an AI Java program that uses simulates a jumping board game 
-          - Users place dots on the board,  each turn potentialy filling neighboring squares
-          - first person to cover the entire board wins
-          - Usies game trees, hashmap, arraylist, and other OOP data structures
-          - Test Driven Development with Junit Tests
+          - Wrote a python program that enables a two person game of TypeRacer <br />
+          - Tracks the typing speed and autocorrects each word
         </p>
 
 
@@ -105,11 +126,8 @@ function Projects() {
 
 
           <p>
-          - Coded an AI Java program that uses simulates a jumping board game 
-          - Users place dots on the board,  each turn potentialy filling neighboring squares
-          - first person to cover the entire board wins
-          - Usies game trees, hashmap, arraylist, and other OOP data structures
-          - Test Driven Development with Junit Tests
+          - Coded a python tower defense game that tracks different classes of characters with unique attributes. <br />
+          - Keeps track of the gamestate to protect home base from enemy attackers.
         </p>
 
 

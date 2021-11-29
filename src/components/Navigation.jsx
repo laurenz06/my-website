@@ -2,6 +2,7 @@ import React from "react";
 import { Link, withRouter } from "react-router-dom";
 import styles from "../styles/Navigation.module.css";
 
+
 function Navigation(props) {
   return (
     <div className= {styles.navigation}>
