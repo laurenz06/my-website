@@ -12,14 +12,11 @@ function Home() {
         <h1 class="font-weight-bold">I’m Lauren Zheng</h1>
 
         <p>
-        A software developer
+        A software developer <br />
+        A guitarist <br />
+        A plushie enthusiast<br />
         </p>
-        <p>
-        A guitarist
-        </p>
-        <p>
-        A plushie enthusiast
-        </p>
+      
         <p>
         Welcome to my portfolio!
         </p>

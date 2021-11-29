@@ -32,7 +32,7 @@ function About() {
             </p>
             <div class={styles.ellipse}>
             <img
-                src="images/social media icons.png"
+                src="images/icons.png"
                 alt=""
             />
             </div>
