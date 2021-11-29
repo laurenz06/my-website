@@ -36,7 +36,7 @@ function Home() {
     
       <div class={styles.profile}>
         <img
-            src= "images/plushiePic.png"
+            src= "images/profileimage.png"
            
             alt=""
         />
