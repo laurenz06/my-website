@@ -22,7 +22,7 @@ function About() {
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-normal">About me</h1>
-            <h1 class="font-weight-light">*\(^o^)/*</h1>
+            <h1 class="font-weight-light">*\(^o^)/* </h1>
 
 
 

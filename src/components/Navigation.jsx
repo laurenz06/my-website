@@ -49,9 +49,17 @@ function Navigation(props) {
                 Gallery
                 </Link>
 
-                <Link class={styles.navlink} to="/Projects">
-                  Resume
-                </Link>
+
+                <a class={styles.navlink} 
+                href="https://docs.google.com/document/d/1A8DNL91pz2bvNxiCsFOrF8efWfRHxcyy5vw5ihGFlFo/edit?usp=sharing" 
+                target="_blank" rel="noopener noreferrer">
+                Resume
+                </a>
+
+                
+
+
+                
               {/* </li> */}
             </ul>
           </div>
