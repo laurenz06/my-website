@@ -1,6 +1,8 @@
 import React from "react";
 import styles from "../styles/Home.module.css";
-// import profileImage from "../plushiePic.png";
+import profileImage from "../images/profileimage.png";
+import icons from "../images/icons.png";
+
 
 function Home() {
   return (
@@ -23,7 +25,7 @@ function Home() {
 
         <div class={styles.socialmedia}>
         <img
-            src= "images/icons.png"
+            src= {icons}
             alt=""
         />
         </div>
@@ -33,7 +35,7 @@ function Home() {
     
       <div class={styles.profile}>
         <img
-            src= "images/profileimage.png"
+            src= {profileImage}
            
             alt=""
         />

@@ -1,5 +1,11 @@
 import React from "react";
 import styles from "../styles/Projects.module.css";
+import jump from "../images/jump.png";
+import typeracer from "../images/typeracer.png";
+import git from "../images/git.png";
+import enigma from "../images/enigma.png";
+import zombies from "../images/zombies.png";
+
 
 function Projects() {
   return (
@@ -12,7 +18,7 @@ function Projects() {
       <div class={styles.rowTwo}>
           <div class = {styles.jump} >
           <img
-              src="images/git.png"
+              src={git}
               width = "200"
               height = "200"
               alt=""
@@ -38,14 +44,14 @@ function Projects() {
         <div class={styles.enigma}>
 
         <img
-            src="images/enigma.png"
+            src={enigma}
             width = "200"
             height = "200"
             alt=""
         />
         </div>
 
-      <div class={styles.enigmaText}>
+      <div class={styles.jumpText}>
         <h2 class="font-weight-bold">Engima Machine Simulator</h2>
       
         <p>
@@ -62,7 +68,7 @@ function Projects() {
         <div class={styles.rowTwo}>
           <div class = {styles.jump} >
           <img
-              src="images/jump.png"
+              src={jump}
               width = "200"
               height = "200"
               alt=""
@@ -90,7 +96,7 @@ function Projects() {
         <div class={styles.rowTwo}>
           <div class = {styles.jump} >
           <img
-              src="images/typeracer 1.png"
+              src={typeracer}
               width = "200"
               height = "200"
               alt=""
@@ -114,7 +120,7 @@ function Projects() {
         <div class={styles.rowTwo}>
           <div class = {styles.jump} >
           <img
-              src="images/ZOMBIES 1.png"
+              src={zombies}
               width = "200"
               height = "200"
               alt=""

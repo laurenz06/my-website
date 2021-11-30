@@ -1,5 +1,7 @@
 import React from "react";
 import styles from "../styles/About.module.css";
+import icons from "../images/icons.png";
+import aboutme from "../images/about_me.png";
 
 
 function About() {
@@ -11,7 +13,7 @@ function About() {
           <div class="col-lg-7">
             <img
               class="img-fluid rounded mb-4 mb-lg-0"
-              src="images/about_me.png"
+              src={aboutme}
               width = "500"
               height = "250"
         
@@ -32,7 +34,7 @@ function About() {
             </p>
             <div class={styles.ellipse}>
             <img
-                src="images/icons.png"
+                src={icons}
                 alt=""
             />
             </div>
